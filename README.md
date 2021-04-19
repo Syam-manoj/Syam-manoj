@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syam-manoj
-- 👀 I’m interested in cricket and reading
+- 👀 I’m interested in cricket.
 - 🌱 I’m currently learning the basics of programming and started with the C language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
