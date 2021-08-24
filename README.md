@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Syam-manoj
-- 👀 I’m interested in cricket.
 - 🌱 I’m currently learning algorithmic concepts and the mathematics required for computer sciene
 
 <!---
