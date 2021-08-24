@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Syam-manoj
 - 👀 I’m interested in cricket.
-- 🌱 I’m currently learning the basics of programming and started with the C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning algorithmic concepts and the mathematics required for computer sciene
 
 <!---
 Syam-manoj/Syam-manoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
