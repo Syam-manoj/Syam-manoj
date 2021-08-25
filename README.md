@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syam-manoj
-- 🌱 I’m currently learning algorithmic concepts and the mathematics required for computer sciene
+- 🌱 I’m currently learning algorithmic concepts and the mathematics required for computer science
 
 <!---
 Syam-manoj/Syam-manoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
